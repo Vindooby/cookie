@@ -1,0 +1,64 @@
+body {
+  background-color: red;
+  background-size: cover;
+  color: white;
+}
+
+header {
+  font-size: 100px;
+  text-align: center;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+#photos {
+  text-align: center;
+  padding-top: 30px;
+}
+
+#buttons {
+  text-align: center;
+  padding-top: 40px;
+}
+
+#button1 {
+  width: 200px;
+  height: 30px;
+  font-family: 'Lobster', cursive;
+  font-size: 20px;
+  background-color: #f2e2a4;
+}
+
+#button2 {
+  width: 220px;
+  height: 30px;
+  font-family: 'Lobster', cursive;
+  font-size: 20px;
+  color: white;
+  background-color: #4E2E28;
+}
+
+#button3 {
+  width: 200px;
+  height: 30px;
+  font-family: 'Lobster', cursive;
+  font-size: 20px;
+  color: black;
+  background-color: #fff44f;
+}
+
+#h1 {
+  padding-top: 20px;
+  text-align: center;
+  font-size: 70px;
+  font-family: 'Lobster', cursive;
+}
+
+#button4 {
+  width: 200px;
+  height: 30px;
+  font-family: 'Lobster', cursive;
+  font-size: 20px;
+  color: black;
+  background-color: #fff44f;
+}
