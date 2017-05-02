@@ -10,11 +10,6 @@ var sugarValue = 0;
 var chocolateValue = 0;
 var lemonValue = 0;
 
-
-Cookies.set("Sugar", sugarValue);
-Cookies.set("Chocolate", chocolateValue);
-Cookies.set("Lemon", lemonValue);
-
 lemon.addEventListener("click",function(){
   lemonValue++;
   Cookies.set("Lemon",lemonValue);
